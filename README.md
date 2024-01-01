@@ -1,6 +1,5 @@
 # Drumkit
 
+This drumkit app was created using JavaScript DOM! It's a delightful game with added sound effects for extra fun!
 
-this is a drumkit application developed using javascript Dom ! its a fun kind of game ,and there is also a sound effect!
-
-<img src="images/snare.png">
+link: https://rakshitnayak.github.io/Drumkit/
